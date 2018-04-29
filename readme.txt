@@ -17,3 +17,4 @@ test02   test test01-branch
 =======
 test03   test test01-branch
 >>>>>>> test03
+master   test commit  test02 test03
