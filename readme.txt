@@ -13,8 +13,19 @@ branch test
 merge
 test01   test branch
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+test01   test test01-02-03 branch
+=======
+>>>>>>> test01
 test02   test test01-branch
+>>>>>>> test02
 =======
 test03   test test01-branch
 >>>>>>> test03
+<<<<<<< HEAD
 master   test commit  test02 test03
+=======
+test01   commit test01-02-03
+>>>>>>> test01
