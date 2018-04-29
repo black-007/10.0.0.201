@@ -12,3 +12,4 @@ branch test
 >>>>>>> test
 merge
 test01   test branch
+test02   test test01-branch
