@@ -12,4 +12,8 @@ branch test
 >>>>>>> test
 merge
 test01   test branch
+<<<<<<< HEAD
 test01   test test01-02-03 branch
+=======
+test02   test test01-branch
+>>>>>>> test02
