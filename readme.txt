@@ -33,5 +33,16 @@ test01   commit test01-02-03
 test04   branch merg
 =======
 test04   branch merge
+<<<<<<< HEAD
 test04   test stash 02
+=======
+<<<<<<< Updated upstream
+test04   test stash 03
+=======
+test04   test stash
+
+test04   test stash
+
+
+>>>>>>> test04
 >>>>>>> Stashed changes
