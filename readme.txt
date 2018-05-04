@@ -30,3 +30,4 @@ master   test commit  test02 test03
 test01   commit test01-02-03
 >>>>>>> test01
 test04   branch merge
+test04   test stash 03
